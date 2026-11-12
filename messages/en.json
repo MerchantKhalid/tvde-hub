@@ -1,0 +1,96 @@
+{
+  "common": {
+    "siteName": "TVDE Hub Portugal",
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNavigation": "Main navigation",
+    "theme": "Change theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "language": "Language",
+    "languageName": { "pt": "Português", "en": "English" },
+    "verified": "Verified",
+    "reviews": "{count, plural, one {# review} other {# reviews}}",
+    "ratingLabel": "Rated {rating} out of 5"
+  },
+  "nav": {
+    "drivers": "Drivers",
+    "fleets": "Fleets",
+    "request": "Request a driver",
+    "about": "About",
+    "login": "Log in",
+    "register": "Sign up"
+  },
+  "metadata": {
+    "title": "TVDE Hub Portugal — Drivers, fleets and customers",
+    "description": "The marketplace connecting TVDE drivers, fleet operators and customers across Portugal."
+  },
+  "hero": {
+    "badge": "Made for Portugal's TVDE sector",
+    "title": "The trusted meeting point for drivers, fleets and customers",
+    "subtitle": "Find verified TVDE drivers and fleets, grow your operation, or request a ride for your guests. Simple, transparent and in your language."
+  },
+  "entry": {
+    "driver": {
+      "title": "I'm a driver",
+      "description": "Publish your profile, find a fleet and receive invitations.",
+      "cta": "Create driver profile"
+    },
+    "fleet": {
+      "title": "I'm a fleet owner",
+      "description": "Showcase your fleet, find drivers and receive customer requests.",
+      "cta": "Create fleet profile"
+    },
+    "customer": {
+      "title": "I need a driver",
+      "description": "Browse verified drivers and fleets, or post one request. No account needed.",
+      "cta": "Request a driver"
+    }
+  },
+  "how": {
+    "title": "How it works",
+    "subtitle": "Three simple steps, whoever you are.",
+    "driver": {
+      "title": "Drivers",
+      "step1": "Create your profile and upload your documents.",
+      "step2": "Get verified and appear in search.",
+      "step3": "Apply to fleets or accept invitations."
+    },
+    "fleet": {
+      "title": "Fleet owners",
+      "step1": "Publish your fleet and operator licence.",
+      "step2": "Invite drivers or review applications.",
+      "step3": "Answer customer requests and assign drivers."
+    },
+    "customer": {
+      "title": "Customers",
+      "step1": "Browse profiles or fill in one request.",
+      "step2": "Receive replies and quotes by email.",
+      "step3": "Follow your booking and leave a review."
+    }
+  },
+  "footer": {
+    "tagline": "A directory and connection service for TVDE in Portugal.",
+    "platform": "Platform",
+    "company": "Company",
+    "legal": "Legal",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "cookies": "Cookie policy",
+    "rights": "© {year} TVDE Hub Portugal. All rights reserved."
+  },
+  "legal": {
+    "noticeTitle": "Legal notice",
+    "notice": "TVDE Hub Portugal is a directory and connection service. It is not a transport operator. All users must comply with Portuguese TVDE regulations (Lei n.º 45/2018 and applicable IMT rules)."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist or has moved.",
+    "cta": "Back to home"
+  }
+}

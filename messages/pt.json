@@ -1,0 +1,96 @@
+{
+  "common": {
+    "siteName": "TVDE Hub Portugal",
+    "skipToContent": "Saltar para o conteúdo",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "mainNavigation": "Navegação principal",
+    "theme": "Alterar tema",
+    "themeLight": "Claro",
+    "themeDark": "Escuro",
+    "themeSystem": "Sistema",
+    "language": "Idioma",
+    "languageName": { "pt": "Português", "en": "English" },
+    "verified": "Verificado",
+    "reviews": "{count, plural, one {# avaliação} other {# avaliações}}",
+    "ratingLabel": "Avaliação de {rating} em 5"
+  },
+  "nav": {
+    "drivers": "Motoristas",
+    "fleets": "Frotas",
+    "request": "Pedir um motorista",
+    "about": "Sobre nós",
+    "login": "Iniciar sessão",
+    "register": "Criar conta"
+  },
+  "metadata": {
+    "title": "TVDE Hub Portugal — Motoristas, frotas e clientes",
+    "description": "O marketplace que liga motoristas TVDE, operadores de frota e clientes em todo o país."
+  },
+  "hero": {
+    "badge": "Feito para o setor TVDE em Portugal",
+    "title": "O ponto de encontro de confiança entre motoristas, frotas e clientes",
+    "subtitle": "Encontre motoristas e frotas TVDE verificados, faça crescer a sua operação ou peça uma viagem para os seus convidados. Simples, transparente e na sua língua."
+  },
+  "entry": {
+    "driver": {
+      "title": "Sou motorista",
+      "description": "Publique o seu perfil, encontre uma frota e receba convites.",
+      "cta": "Criar perfil de motorista"
+    },
+    "fleet": {
+      "title": "Sou dono de frota",
+      "description": "Apresente a sua frota, encontre motoristas e receba pedidos de clientes.",
+      "cta": "Criar perfil de frota"
+    },
+    "customer": {
+      "title": "Preciso de um motorista",
+      "description": "Explore motoristas e frotas verificados ou faça um único pedido. Sem conta.",
+      "cta": "Pedir um motorista"
+    }
+  },
+  "how": {
+    "title": "Como funciona",
+    "subtitle": "Três passos simples, seja quem for.",
+    "driver": {
+      "title": "Motoristas",
+      "step1": "Crie o seu perfil e carregue os documentos.",
+      "step2": "Seja verificado e apareça nas pesquisas.",
+      "step3": "Candidate-se a frotas ou aceite convites."
+    },
+    "fleet": {
+      "title": "Donos de frota",
+      "step1": "Publique a sua frota e a licença de operador.",
+      "step2": "Convide motoristas ou analise candidaturas.",
+      "step3": "Responda a pedidos de clientes e atribua motoristas."
+    },
+    "customer": {
+      "title": "Clientes",
+      "step1": "Explore perfis ou preencha um único pedido.",
+      "step2": "Receba respostas e orçamentos por email.",
+      "step3": "Acompanhe a sua reserva e deixe uma avaliação."
+    }
+  },
+  "footer": {
+    "tagline": "Um serviço de diretório e ligação para o TVDE em Portugal.",
+    "platform": "Plataforma",
+    "company": "Empresa",
+    "legal": "Legal",
+    "about": "Sobre nós",
+    "faq": "Perguntas frequentes",
+    "contact": "Contacto",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de utilização",
+    "cookies": "Política de cookies",
+    "rights": "© {year} TVDE Hub Portugal. Todos os direitos reservados."
+  },
+  "legal": {
+    "noticeTitle": "Aviso legal",
+    "notice": "O TVDE Hub Portugal é um serviço de diretório e ligação. Não é um operador de transporte. Todos os utilizadores devem cumprir a legislação TVDE portuguesa (Lei n.º 45/2018 e regras aplicáveis do IMT)."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "A página que procura não existe ou foi movida.",
+    "cta": "Voltar ao início"
+  }
+}
